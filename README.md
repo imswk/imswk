@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## <p align="center">![](home.gif)</p>
-
 ### I like SpongeBob Square Pants
 
 🔭 I’m a JavaScript enthusiast. I Very Much Agree with this Sentence. **Any application that can be written in JavaScript, will eventually be written in JavaScript**.
